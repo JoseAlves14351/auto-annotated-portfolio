@@ -16,12 +16,7 @@ sections:
     title: >-
       Olá,o meu nome é josé alves e sou aluno de gestão e programação de
       sistemas informáticos
-    subtitle: >-
-      Sou aluno do curso Técnico de Gestão e programação de Sistemas
-      Informáticos,apaixonado por explorar o mundo da tecnologia e desenvolver
-      soluções inovadoras. Minha jornada acadêmica tem sido marcada por uma
-      busca constante pelo conhecimento e pelo aprimoramento das habilidades
-      técnicas.
+    subtitle: ''
     styles:
       self:
         height: auto
