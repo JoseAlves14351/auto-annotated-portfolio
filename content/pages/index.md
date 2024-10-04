@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: >-
       Olá,o meu nome é josé alves e sou aluno de gestão e programação de
