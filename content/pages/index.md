@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       Olá,o meu nome é josé alves e sou aluno de gestão e programação de
       sistemas informáticos
