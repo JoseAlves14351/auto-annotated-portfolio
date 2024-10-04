@@ -24,7 +24,7 @@ sections:
       técnicas.
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
