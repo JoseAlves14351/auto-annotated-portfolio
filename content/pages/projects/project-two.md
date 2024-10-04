@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: WOOCOMMERCE - SITE DE ROUPA
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
