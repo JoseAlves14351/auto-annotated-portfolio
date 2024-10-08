@@ -150,7 +150,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Swift
+        label: PHOTOSHOP
         url: ''
     colors: colors-f
     elementId: ''
