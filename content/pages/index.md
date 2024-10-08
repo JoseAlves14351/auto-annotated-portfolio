@@ -138,7 +138,7 @@ sections:
         label: Microsoft Office
         url: ''
       - type: Label
-        label: Next.js
+        label: C++
         url: ''
       - type: Label
         label: Netlify
