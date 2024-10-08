@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: WOOCOMMERCE - SITE DE ROUPA
 colors: colors-a
-date: '2024-11-08'
+date: '2024-06-08'
 client: Awesome client
 description: ''
 featuredImage:
