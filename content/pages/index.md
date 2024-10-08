@@ -132,7 +132,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: React
+        label: HARDWARE
         url: ''
       - type: Label
         label: Microsoft Office
