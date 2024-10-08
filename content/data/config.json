@@ -10,18 +10,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
@@ -77,11 +67,11 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contacto",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
+            "phoneNumber": "938 453 368",
+            "phoneAltText": "938 453 368",
             "email": "a14351@oficina.pt",
             "emailAltText": "Email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
