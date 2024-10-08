@@ -144,7 +144,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: Pancakes
+        label: PYTHON
         url: ''
       - type: Label
         label: C++
