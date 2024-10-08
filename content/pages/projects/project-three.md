@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/smartmockups_m1utp9fk.jpg
   altText: Project image
 ---
 
